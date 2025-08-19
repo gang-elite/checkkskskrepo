@@ -76,7 +76,7 @@ Green Code Guardian is an intelligent multi-agent system that automatically tran
 - Before/after comparison views
 - Detailed impact visualizations
 
-![UI Interface](./pictures/picture-02.png)
+![UI Interface](./pictures/picture-09.png)
 
 ---
 
@@ -268,6 +268,7 @@ In a world where every line of code shapes our digital environment, Green Code G
 ---
 
 *"Code with conscience, secure by design, sustainable by default."* 🌱🔐✨
+
 
 
 
