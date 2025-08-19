@@ -7,7 +7,7 @@
 
 > **Team Green Code Guardians** presents an innovative agentic AI system that transforms code security and sustainability through intelligent automation.
 
-![Green Code Guardian Demo]([./pictures/Screenshot%202025-08-19%20190639.png](https://drive.google.com/file/d/1CHeMh7qWL7yZSYrYNFSoXy2okdJiCU1n/view?usp=sharing))
+![Green Code Guardian Demo]([Screenshot%202025-08-19%20190639.png](https://drive.google.com/file/d/1CHeMh7qWL7yZSYrYNFSoXy2okdJiCU1n/view?usp=sharing))
 
 ---
 
@@ -268,4 +268,5 @@ In a world where every line of code shapes our digital environment, Green Code G
 ---
 
 *"Code with conscience, secure by design, sustainable by default."* 🌱🔐✨
+
 
